@@ -4,4 +4,5 @@ email: toastations@gmail.com
 description: My Portfolio
 github_username:  Toastation
 
+markdown: kramdown
 theme: jekyll-theme-minimal
