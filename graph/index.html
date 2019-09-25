@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="p5.min.js"></script>
+        <script src="addons/p5.dom.min.js"></script>
+        <script src="addons/p5.sound.min.js"></script>
+    </head>
+    <body oncontextmenu="return false;">
+        <div class="tab">
+            <button onclick="generate()">Generate</button>
+            <button onclick="generateSquare()">Generate square</button>
+            <button onclick="randomizePos()">Randomize positions</button>
+            <button onclick="switchAlgo(0)">FR 1</button>
+            <button onclick="switchAlgo(1)">FR 2</button>
+            <button onclick="switchAlgo(2)">FR 3</button>            
+        </div>
+        <div id="canvas_container" class="canvas_container">
+        </div>
+        <div class="slidecontainer">
+            <input type="range" min="1" max="100" value="50" class="slider" id="delta">
+        </div>
+        <div id="delta_value"></div>
+        <div class="info">
+            <p>
+                Left-click to move nodes. <br/>
+                Right-click to add new nodes. Hold to link nodes. <br/>
+                Shift + right-click to delete nodes. <br/>
+            </p>
+        </div>
+        <p id="results"></p>
+    </body>
+    <script src="https://meven001.vvv.enseirb-matmeca.fr/graph/graph.js"></script>
+    <script src="https://meven001.vvv.enseirb-matmeca.fr/graph/sketch.js"></script>
+</html>
