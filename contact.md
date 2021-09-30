@@ -3,4 +3,4 @@ layout: default
 is_contact: true
 ---
 
-* Email: [melvin.even@inria.com](melvin.even@inria.com)
+* Email: [melvin.even@inria.fr](melvin.even@inria.fr)
