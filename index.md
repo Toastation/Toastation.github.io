@@ -15,7 +15,7 @@ I am a first-year Ph.D student in the [MANAO](http://manao.inria.fr/) team at IN
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London -->
 
-<!-- ## Typography
+## Typography
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
@@ -38,4 +38,4 @@ Here is a blockquote
 ## References
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum -->
+* John Doe: Associate Professor, Department of Computer Science, Ipsum
