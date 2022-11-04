@@ -16,8 +16,19 @@ is_contact: true
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Artist-guided anisotropic deformation for a 3D procedural deformer*  
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;Advisors: Pierre Bénard, Gaël Guennebaud, Camille Brunel (thesis)
 
-2018-2019&emsp;&emsp;**Computer Science Tutor**; University of Bordeaux, France  
+------
+
+## Teaching experience
+
+2022&emsp;&emsp;&emsp;&emsp;&ensp;**Bordeaux Institute of Technology**, France  
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Practical lessons in functionnal programming for first-year students*
+
+2022&emsp;&emsp;&emsp;&emsp;&ensp;**AI4Industry workshop**, Bordeaux, France  
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Supervised pratical lessons on machine learning and computer vision*
+
+2018-2019&emsp;&emsp;**University of Bordeaux**, France  
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Tutor and teaching assistant for first and second-year student*
+
 
 ------
 
