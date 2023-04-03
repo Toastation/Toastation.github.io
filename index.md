@@ -8,4 +8,4 @@ layout: default
 
 I am a second-year PhD student in computer graphics at INRIA in the [MANAO](http://manao.inria.fr/) team under the supervision of [Pascal Barla]() and [Pierre Bénard]().
 
-My research focuses on traditional 2D animation, more specifically I am developing new methods to design and explore motion from **rough** key drawings. More details can be found [here](https://www.labri.fr/perso/pbenard/mostyle.html).
+My research focuses on traditional 2D animation, more specifically I am developing new methods to design and explore motion from **rough** key drawings. More details can be found [here](https://benardp.github.io/mostyle/).

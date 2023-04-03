@@ -6,11 +6,11 @@ is_contact: true
 ## Experience
 
 2021-&emsp;&emsp;&emsp;&emsp;**Ph.D Student**; INRIA, France  
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Computer-assisted rough 2D animation in-betweening*  
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Computer-assisted rough 2D animation inbetweening*  
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;Advisors: Pierre Bénard, Pascal Barla
 
 2021 &emsp;&emsp;&emsp;&emsp;**Research intership**; INRIA, France  
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Computer-assisted rough 2D animation in-betweening*
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Computer-assisted rough 2D animation inbetweening*
     
 2020 &emsp;&emsp;&emsp;&emsp;**Research intership**; INRIA, France  
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Artist-guided anisotropic deformation for a 3D procedural deformer*  
@@ -19,6 +19,9 @@ is_contact: true
 ------
 
 ## Teaching experience
+
+2023&emsp;&emsp;&emsp;&emsp;&ensp;**University of Bordeaux**, France  
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Algorithms on arrays*
 
 2022&emsp;&emsp;&emsp;&emsp;&ensp;**Bordeaux Institute of Technology**, France  
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Practical lessons in functionnal programming for first-year students*
