@@ -6,10 +6,10 @@ is_contact: true
 ## Random stuff
 
 ##### P5js
-* [symmetry drawing](https://toastation.github.io/vis/symmetry/)
-* [chaos equations](https://toastation.github.io/vis/chaosequations/)
-* [2D raycasting stuff](https://toastation.github.io/vis/raycast/)
-* [forest fire cellular automata](https://toastation.github.io/vis/cellular2D/)
+* [symmetry drawing](https://toastation.github.io/sandbox/symmetry/)
+* [chaos equations](https://toastation.github.io/sandbox/chaosequations/)
+* [2D raycasting stuff](https://toastation.github.io/sandbox/raycast/)
+* [forest fire cellular automata](https://toastation.github.io/sandbox/cellular2D/)
 
 ##### Pico-8
 * [perlin](https://toastation.github.io/p8/perlin.html)
