@@ -12,6 +12,6 @@ My research focuses on computer-assisted traditional 2D animation, more specific
 
 ## Contact
 
-* Email: [melvin.even@inria.fr](melvin.even@inria.fr)
+* [melvin.even@inria.fr](melvin.even@inria.fr)
 * [Github](https://github.com/Toastation/)
 * [LinkedIn](https://www.linkedin.com/in/melvin-even/)

@@ -15,5 +15,6 @@ is_contact: true
 * [perlin](https://toastation.github.io/p8/perlin.html)
 * [rubber band on water](https://toastation.github.io/p8/perlin2.html)
 * [diamond square terrain](https://toastation.github.io/p8/ds.html)
+* [raymarch](https://toastation.github.io/p8/raymarch_fast.html)
 * [emoji double pendulum](https://toastation.github.io/p8/dpendulum.html)
 * [chaos game fractal](https://toastation.github.io/p8/chaos.html)
