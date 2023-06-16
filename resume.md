@@ -1,6 +1,5 @@
 ---
 layout: default
-is_contact: true
 ---
 
 ## Experience
@@ -42,3 +41,9 @@ is_contact: true
 
 2016-2019&emsp;**B.Sc, Computer Science**; University of Bordeaux, France  
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;*with honours, gradutated top of the class*
+
+------
+
+## Publication
+
+{% include publications link=true style="mla"  %}

@@ -1,6 +1,5 @@
 ---
 layout: default
-is_contact: true
 ---
 
 ## Random stuff

@@ -20,7 +20,5 @@ nav:
    link: "/"
  - name: "Resume"
    link: "resume"
- - name: "Contact"
-   link: "contact"
  - name: "Random stuff"
    link: "random"
