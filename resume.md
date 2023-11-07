@@ -32,7 +32,9 @@ is_contact: true
 
 ## Teaching experience
 
-2023&emsp;&emsp;&emsp;&emsp;&ensp;**Algorithms on arrays**, University of Bordeaux  
+2023&emsp;&emsp;&emsp;&emsp;&ensp;**Numerical methods**, Institut d'optique Graduate School
+
+2023&emsp;&emsp;&emsp;&emsp;&ensp;**Algorithms on arrays**, University of Bordeaux
 
 2022&emsp;&emsp;&emsp;&emsp;&ensp;**Functionnal programming**, Bordeaux Institute of Technology  
 
@@ -44,6 +46,6 @@ is_contact: true
 
 ------
 
-## Publication
+## Publications
 
 {% include publications link=true style="mla"  %}
