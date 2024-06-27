@@ -12,7 +12,7 @@ is_contact: true
 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Computer-assisted rough 2D animation inbetweening*
     
 2020 &emsp;&emsp;&emsp;&emsp;**Research intership**; INRIA, Bordeaux   
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Artist-guided anisotropic deformation for a 3D procedural deformer*  
+&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*[Artist-guided anisotropic deformation for a 3D procedural deformer](https://theses.hal.science/tel-03521374v1/document)*  
 
 ------
 

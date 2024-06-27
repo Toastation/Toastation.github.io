@@ -7,9 +7,9 @@ title: Melvin Even
 
 <!-- <img class="profile-picture" src="aaa.jpg"> -->
 
-I am a second-year PhD student in computer graphics at INRIA in the [MANAO](http://manao.inria.fr/) team under the supervision of [Pascal Barla]() and [Pierre Bénard]().
+I am a third-year PhD student in computer graphics at INRIA in the [MANAO](http://manao.inria.fr/) team under the supervision of [Pascal Barla]() and [Pierre Bénard]().
 
-My research focuses on computer-assisted traditional 2D animation, more specifically I am developing new methods to design and explore motion from **rough** key drawings. More details can be found [here](https://mostyle.github.io/).
+My research focuses on computer-assisted traditional 2D animation, more specifically I am developing new methods to design and explore motion from **rough** key drawings. More details can be found [here](https://mostyle.github.io/) or in the [publication page](/publications).
 
 ## Contact
 

@@ -127,5 +127,42 @@ hr {
 	}
 }
 
+.pubitem {
+    margin: 2em 0;
+    line-height: 1em;
+}
+
+.pubtitle {
+margin-bottom: 0.5em;
+line-height: 1.2em;
+font-weight: bold;
+}
+  
+.pubauthors,
+.pubinfo {
+font-size: 75%;
+margin-bottom: 0.75em;
+}
+
+.pubteaser {
+    clear: both;
+}
+  
+.pubteaser a {
+    float: left;
+    margin-right: 2em;
+}
+  
+.pubteaser img {
+    width: 100px;
+    border: 1px solid black;
+    -moz-box-shadow: 0 0 5px 2px #666;
+    -webkit-box-shadow: 0 0 5px 2px #666;
+}
+
+.publinks {
+    font-size: 75%;
+}
+
 @import "typography";
 @import "tables";

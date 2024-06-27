@@ -18,7 +18,20 @@ sass:
 nav:
  - name: "About"
    link: "/"
+ - name: "Publications"
+   link: "publications"
  - name: "Resume"
    link: "resume"
  - name: "Random stuff"
    link: "random"
+
+collections:
+  conf:
+    output: true
+    permalink: /:collection/:name
+  talks:
+    output: true
+    permalink: /:collection/:name
+  projects:
+    output: true
+    permalink: /:collection/:name
