@@ -3,6 +3,8 @@ layout: default
 is_contact: true
 ---
 
+[PDF](/pdfs/CV_extended_EVEN.pdf)
+
 ## Experience
 
 2021-&emsp;&emsp;&emsp;&emsp;**Ph.D Student (Computer Graphics)**; INRIA, University of Bordeaux  
