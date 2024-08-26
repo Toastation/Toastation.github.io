@@ -22,7 +22,7 @@ nav:
    link: "publications"
  - name: "Resume"
    link: "resume"
- - name: "Random stuff"
+ - name: "Misc. projects"
    link: "random"
 
 collections:

@@ -3,7 +3,9 @@ layout: default
 is_contact: true
 ---
 
-## Random stuff
+## Misc. projects
+
+Just some random stuff
 
 ##### P5js
 * [symmetry drawing](https://toastation.github.io/sandbox/symmetry/)
@@ -18,3 +20,6 @@ is_contact: true
 * [raymarch](https://toastation.github.io/p8/raymarch_fast.html)
 * [emoji double pendulum](https://toastation.github.io/p8/dpendulum.html)
 * [chaos game fractal](https://toastation.github.io/p8/chaos.html)
+
+##### Other
+* [liltracer (path-tracer)](https://github.com/SimonLCS/LilTracer)
