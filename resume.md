@@ -3,52 +3,142 @@ layout: default
 is_contact: true
 ---
 
-[PDF](/pdfs/CV_extended_EVEN.pdf)
+[PDF (extended version)](/pdfs/CV_extended_EVEN.pdf)
 
 ## Experience
 
-2021-&emsp;&emsp;&emsp;&emsp;**Ph.D Student (Computer Graphics)**; INRIA, University of Bordeaux  
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Thesis*: Computer-assisted 2D animation inbetweening  
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;My research focuses on developing new methods to design and explore motion
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;for traditional 2D animation by providing real-time animation preview from
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;(rough) key drawings and non-linear editing of the preview (redrawing, trajectory
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;constraints, spacing).
-    
-2020 &emsp;&emsp;&emsp;&emsp;**Research intership (3D animation)**; INRIA, Bordeaux   
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;I worked with a [PhD student](https://camillebr.github.io/) on an artist-guided [method](https://theses.hal.science/tel-03521374v1/document) for geometric &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;deformations resulting from contacts in 3D animation. 
+<p style="text-align:left;" markdown="1">
+**Ph.D Student (Computer Graphics)**; INRIA, University of Bordeaux
+    <span style="float:right;">
+    2021-
+    </span>
+</p>
+
+<div class="pubitem" markdown="1" >
+<div class="pubteaser">
+  <a href="https://mostyle.github.io/">
+    <img
+      src="/images/publication-pages/vd2024_small.png"
+      alt=""
+    />
+  </a>
+</div>
+*Thesis: Computer-assisted 2D animation inbetweening*  
+My research focuses on developing new methods to design and explore motion for traditional 2D animation by providing real-time animation preview from (rough) key drawings and non-linear editing of the preview (redrawing, trajectory constraints, spacing). [More info](https://mostyle.github.io/).   
+</div>
+
+
+<br>
+
+<p style="text-align:left;" markdown="1">
+**Research intership (3D animation)**; INRIA, Bordeaux
+    <span style="float:right;">
+    2020
+    </span>
+</p>
+<div class="pubitem" markdown="1">
+<div class="pubteaser">
+  <a href="https://camillebr.github.io/Project_Elastic.html">
+    <img
+      src="/images/deformlowres.png"
+      alt=""
+    />
+  </a>
+</div>
+I worked on an artist-guided method for geometric deformations resulting from contacts in 3D animation. [More info](https://camillebr.github.io/Project_Elastic.html).  
+*Supervisors:* [Camille Brunel](https://camillebr.github.io/), [Pierre Bénard](https://www.labri.fr/perso/pbenard/), [Gaël Guennebaud](https://www.labri.fr/perso/guenneba/)
+</div>
+
+<br>
+<br>
+<br>
 
 ------
 
 ## Education 
 
-2021-&emsp;&emsp;&emsp;&emsp;**Ph.D Student (Computer Graphics)**; University of Bordeaux  
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Thesis*: Computer-assisted rough 2D animation inbetweening (see above)  
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Advisors*: [Pierre Bénard](https://www.labri.fr/perso/pbenard/), [Pascal Barla](https://www.labri.fr/perso/barla/blog/)
 
-2019-2021&emsp;&emsp;**Ms.Eng, Computer Science**; Bordeaux Institute of Technology   
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*Computer graphics and artificial intelligence, with honours*
+<p style="text-align:left;" markdown="1">
+**Ph.D Student (Computer Graphics)**; University of Bordeaux
+    <span style="float:right;">
+    2021-
+    </span>
+</p>  
+<div class="outer" markdown="1">
+  <div class="inner" markdown="1">
+*Thesis: Computer-assisted rough 2D animation inbetweening* (see above)  
+*Advisors*: [Pierre Bénard](https://www.labri.fr/perso/pbenard/), [Pascal Barla](https://www.labri.fr/perso/barla/blog/)
+  </div>
+</div>
 
-2016-2019&emsp;&emsp;**B.Sc, Computer Science**; University of Bordeaux    
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;*with honours, gradutated top of the class*
+<p style="text-align:left;" markdown="1">
+**Ms.Eng, Computer Science**; Bordeaux Institute of Technology
+    <span style="float:right;">
+    2019-2021
+    </span>
+</p>
+<div class="outer" markdown="1">
+  <div class="inner" markdown="1">
+*Computer graphics and artificial intelligence, with honours*
+  </div>
+</div>
+
+<p style="text-align:left;" markdown="1">
+**B.Sc, Computer Science**; University of Bordeaux
+    <span style="float:right;">
+    2016-2019
+    </span>
+</p>
+<div class="outer" markdown="1">
+  <div class="inner" markdown="1">
+*with honours, gradutated top of the class*
+  </div>
+</div>
 
 ------
 
 ## Teaching experience
 
-2023&emsp;&emsp;&emsp;&emsp;&ensp;**Numerical methods**, Institut d'optique Graduate School  
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;MATLAB, linear and non-linear optimization, FEM for first master's student.
+<div class="outer" markdown="1">
+2024
+  <div class="inner" markdown="1">
+**Numerical methods**, Institut d'optique Graduate School  
+MATLAB, linear and non-linear optimization, FEM for first master's student.
+<br>
+<br>
+**C++ programming**  
+Introduction to C++ and OOP for first master's student.
 
-2023&emsp;&emsp;&emsp;&emsp;&ensp;**Intro to computer science**, University of Bordeaux  
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;Intro to computer science for first year students.
+  </div>
+</div>
 
-2022&emsp;&emsp;&emsp;&emsp;&ensp;**Functional programming**, Bordeaux Institute of Technology  
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;Intro to OCaml and functional programming  
+<div class="outer" markdown="1">
+2023
+  <div class="inner" markdown="1">
+**Intro to computer science**, University of Bordeaux  
+Intro to computer science for first year students.
+  </div>
+</div>
 
-2022&emsp;&emsp;&emsp;&emsp;&ensp;**AI4Industry workshop**, Bordeaux Institute of Technology   
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;Supervised pratical lessons on machine learning and computer vision.
 
-2018-2019&emsp;&emsp;**University of Bordeaux**   
-&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;Tutor and teaching assistant for first and second year student.
+<div class="outer" markdown="1">
+2022
+  <div class="inner" markdown="1">
+**Functional programming**, Bordeaux Institute of Technology   
+Intro to OCaml and functional programming  
+<br>
+**AI4Industry workshop**, Bordeaux Institute of Technology    
+Supervised pratical lessons on machine learning and computer vision.
+  </div>
+</div>
+
+<div class="outer" markdown="1">
+2018-2019
+  <div class="inner" markdown="1">
+**University of Bordeaux**   
+Tutor and teaching assistant for first and second year student.
+  </div>
+</div>
 
 ------
 
@@ -61,6 +151,13 @@ is_contact: true
 ## Talks
 
 {% include talks link=true style="mla"  %}
+
+------
+
+## Reviewing activities
+
+* ACM Transactions on Graphics (TOG), 2024 and 2023
+* Computer & Graphics, 2024
 
 ------
 

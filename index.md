@@ -18,5 +18,5 @@ I am interested in all aspects of computer graphics, more specically 2D/3D anima
 ## Contact
 
 * [melvin.even@inria.fr](melvin.even@inria.fr)
-* [Github](https://github.com/Toastation/)
+* [Github](https://github.com/meven0/)
 * [LinkedIn](https://www.linkedin.com/in/melvin-even/)

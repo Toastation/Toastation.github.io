@@ -164,5 +164,13 @@ margin-bottom: 0.75em;
     font-size: 75%;
 }
 
+.outer {
+margin: 0 auto;
+}
+  
+.inner {
+margin-left: 50px;
+}
+
 @import "typography";
 @import "tables";
