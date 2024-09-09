@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-[PDF (extended version)](/pdfs/CV_extended_EVEN.pdf)
+[PDF (extended version)](/pdfs/EVEN_CV_extended.pdf)
 
 ## Experience
 
