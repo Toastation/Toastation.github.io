@@ -13,7 +13,7 @@ My research focuses on computer-assisted traditional 2D animation, more specific
 
 During my Master's degree, I worked on  geometric deformation for 3D animation with [Camille Brunel](https://camillebr.github.io/).
 
-I am interested in all aspects of computer graphics, more specically 2D/3D animation and NPR, where I can work alongside artists to provide them with new innovative tools and creative freedom.
+I am interested in all aspects of computer graphics, in particular 2D/3D animation and NPR, where I can work alongside artists to provide them with new innovative tools and creative freedom.
 
 ## Contact
 
