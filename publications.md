@@ -52,6 +52,28 @@ is_contact: true
 </div>
 {% endfor %}
 
+<h4 class="mt-4">Thesis manuscript</h4>
+{% assign publications = site.thesis | sort: "year" | reverse %}
+{% for pub in publications %}
+<div class="pubitem">
+<div class="pubteaser">
+  <a href="{{pub.project}}">
+    <img
+      src="/images/publication-pages/{{ pub.slug }}_small.png"
+      alt="{{pub.slug}} publication teaser"
+    />
+  </a>
+</div>
+  <div class="pubtitle">{{ pub.title }}</div>
+  <div class="pubauthors">{{ pub.authors }}</div>
+  <div class="pubinfo">{{ pub.publication }}, {{ pub.year}}</div>
+  <div class="publinks">
+  <a href="{{ pub.pdf }}"><i class="far fa-file-pdf"></i> PDF</a
+  >
+</div>
+</div>
+{% endfor %}
+
 <h2 class="mt-4">Project</h2>
 
 {% assign publications = site.projects | sort: "year" | reverse %}

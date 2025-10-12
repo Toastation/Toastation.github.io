@@ -32,6 +32,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:name
+  thesis:
+    output: true
+    permalink: /:collection/:name
   projects:
     output: true
     permalink: /:collection/:name
